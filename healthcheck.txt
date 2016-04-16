@@ -1,0 +1,1 @@
+[{"InstanceID":27016,"InstanceName":"WIN7","IssueCount":{"High":0,"Medium":1,"Low":3,"RowColor":"orange"},"DatePerformed":"\/Date(1425398909750)\/","Url":"https://www.spotlightessentials.com/sql-server/instances/27016/health-check"}]
